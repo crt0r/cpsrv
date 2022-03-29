@@ -26,3 +26,7 @@ https://azure.microsoft.com/en-us/
 https://www.heroku.com/
 https://adminvps.ru/
 http://reg.ru/
+https://habr.com/ru/post/243651/
+https://mosh.org/#
+https://www.snort.org/
+https://www.redhat.com/sysadmin/security-intrusion-detection
