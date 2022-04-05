@@ -30,3 +30,7 @@ https://habr.com/ru/post/243651/
 https://mosh.org/#
 https://www.snort.org/
 https://www.redhat.com/sysadmin/security-intrusion-detection
+https://habr.com/ru/post/506218/
+https://www.pcworld.com/article/423257/att-wi-fi-hotspot-caught-injecting-ads-into-web-pages.html
+https://thehackernews.com/2016/02/china-hacker-malware.html
+https://www.csoonline.com/article/2953718/t-mobile-caught-in-crossfire-of-injected-ad-war-between-shady-ad-networks-and-google.html
